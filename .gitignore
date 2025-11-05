@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Temporary files
+*.tmp
